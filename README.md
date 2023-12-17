@@ -4,4 +4,4 @@ This repository contains my solutions to various algorithmic problems from the [
 
 ## Description
 
-The purpose of this repository is to demonstrate my skills in algorithmic problem solving and implementation. Each folder corresponds to a specific problem and contains the source code of my solution.
+Solving these problems was a preparation for SWERC 2022-2023 in Milan. Each folder corresponds to a specific problem and contains the source code of my solution.
